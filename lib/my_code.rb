@@ -2,6 +2,6 @@ def map(array)
 new = []
 i = 0
 while i < array.length
-  yield(array)
+  yield(array[i])
   end
 end
