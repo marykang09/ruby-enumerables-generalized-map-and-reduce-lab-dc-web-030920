@@ -8,6 +8,6 @@ while i < array.length
 new
 end
 
-def reduce
+def reduce(array)
 
 end
