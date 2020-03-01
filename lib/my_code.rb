@@ -8,7 +8,7 @@ while i < array.length
 new
 end
 
-def reduce(array)
+def reduce(array, starting_value)
 i = 0
 while i < array.length
 
