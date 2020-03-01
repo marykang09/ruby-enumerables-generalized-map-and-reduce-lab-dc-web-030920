@@ -7,3 +7,7 @@ while i < array.length
   end
 new
 end
+
+def reduce
+
+end
